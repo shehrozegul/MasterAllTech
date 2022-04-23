@@ -1,1 +1,1 @@
-# MasterAllTech
+# SQL Concepts and Qurries
